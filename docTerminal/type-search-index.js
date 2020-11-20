@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"practica6","l":"Alumna"},{"p":"practica6","l":"Directora"},{"p":"practica6","l":"Empleada"},{"p":"practica6","l":"Gerente"},{"p":"practica6","l":"Persona"},{"p":"practica6","l":"Practica6"},{"p":"practica6","l":"Profesora"},{"p":"practica6","l":"Trabajadora"}];updateSearchResults();
